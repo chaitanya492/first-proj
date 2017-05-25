@@ -1,2 +1,3 @@
 class chaitanya
-public static void main (strings args[])
+public static void  (strings args[])
+method is the main
